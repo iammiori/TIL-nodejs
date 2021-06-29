@@ -31,7 +31,7 @@ const fs = require('fs');
 try {
   fs.readdirSync('uploads');
 } catch (error) {
-  console.error('uploads 폴더가 없어 uploads 폴더를 생성합니다.');
+  console.error('uploads 폴더가 없어 uploads 폴더를 생성.');
   fs.mkdirSync('uploads');
 }
 const upload = multer({
