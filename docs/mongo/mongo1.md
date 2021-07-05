@@ -2,3 +2,5 @@
 
 ## MongoDB Atlas DB
 - cloud service
+
+## CRUD
