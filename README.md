@@ -1,1 +1,3 @@
-# TIL-nodejs
+# TIL-node.js
+
+node.js + mongoDB
